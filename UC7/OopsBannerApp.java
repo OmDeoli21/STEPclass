@@ -1,4 +1,3 @@
-package UC7;
 
 public class OopsBannerApp {
 
